@@ -4,8 +4,8 @@ This is a minimum sample for Autodesk View and Data writen in PHP. To use it, fi
 
 # External dependency
 
-Download the [Httoful library](http://phphttpclient.com/docs/class-Httpful.Response.html) for PHP for this sample.
+Download the [Httpful library](http://phphttpclient.com/docs/class-Httpful.Response.html) for PHP for this sample.
 
 # Author
 
-Written by Augusto Goncalves
+Written by [Augusto Goncalves](http://adndevblog.typepad.com/cloud_and_mobile/2016/01/quick-and-simple-php-view-and-data-sample.html)
